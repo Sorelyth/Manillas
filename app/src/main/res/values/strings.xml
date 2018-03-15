@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Empresa XYZ</string>
+    <string name="manillas">Manillas de Alta Calidad</string>
+    <string name="material">Seleccione el material</string>
+    <string name="dije">Seleccione el dije</string>
+    <string name="color">Seleccione el color del dije</string>
+    <string name="cantidad">Ingrese la cantidad de manillas</string>
+    <string name="cuero">Cuero</string>
+    <string name="cuerda">cuerda</string>
+    <string name="martillo">Martillo</string>
+    <string name="ancla">Ancla</string>
+    <string name="oro">Oro</string>
+    <string name="oro_rosado">Oro Rosado</string>
+    <string name="plata">Plata</string>
+    <string name="niquel">Níquel</string>
+    <string name="moneda">Seleccione el tipo de moneda</string>
+    <string name="calcular">Calcular</string>
+    <string name="dolar">Dolar</string>
+    <string name="pesos_cop">Pesos COP</string>
+    <string name="total">Total</string>
+    <string-array name="ListMaterial">
+        <item>@string/cuero</item>
+        <item>@string/cuerda</item>
+    </string-array>
+
+    <string-array name="ListDije">
+        <item>@string/martillo</item>
+        <item>@string/ancla</item>
+    </string-array>
+
+    <string-array name="ListColor">
+        <item>@string/oro</item>
+        <item>@string/oro_rosado</item>
+        <item>@string/plata</item>
+        <item>@string/niquel</item>
+    </string-array>
+
+    <string-array name="ListMoneda">
+        <item>@string/dolar</item>
+        <item>@string/pesos_cop</item>
+    </string-array>
+
+    <string name="esta_vacio">La cantidad no puede ser cero</string>
+    <string name="menor_uno">La cantidad no puede ser menor a uno</string>
+
+
+
+</resources>

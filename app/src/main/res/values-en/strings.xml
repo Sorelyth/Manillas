@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XYZ Company</string>
+    <string name="manillas">Bracelets</string>
+    <string name="material">Select the material</string>
+    <string name="dije">Select the Pendant</string>
+    <string name="color">Select the Pendant\'s color</string>
+    <string name="cantidad">Enter the quantity of bracelets</string>
+    <string name="cuero">Leather</string>
+    <string name="cuerda">Rope</string>
+    <string name="martillo">Hammer</string>
+    <string name="ancla">Anchor</string>
+    <string name="oro">Gold</string>
+    <string name="oro_rosado">Pink Gold</string>
+    <string name="plata">Silver</string>
+    <string name="niquel">Nickel</string>
+    <string name="moneda">Select the type of currency</string>
+    <string name="calcular">Calculate</string>
+    <string name="dolar">Dollar</string>
+    <string name="pesos_cop">Pesos COP</string>
+    <string name="total">Total</string>
+    <string name="esta_vacio">"Quantity can't be zero "</string>
+    <string name="menor_uno">Quantity can\'t be less to one</string>
+</resources>
